@@ -1,0 +1,492 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+  /* background-image:url(./img/wood-floor-wall-marketing-presentation-260nw-1846873444.webp) ;
+ object-fit:cover;
+  position: relative;
+  z-index: 1;
+  background-repeat: no-repeat; */
+
+}
+
+/* level1 */
+.kal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.ad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #35599d;
+}
+
+.uii{
+    display: flex;
+    border-radius: 20px;
+    padding: 5px;
+}
+.ui{
+    padding: 20px;
+}
+.light{
+    color:#35599d ;
+    background-color: white;
+    font-size: 1.5rem;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-weight: 700;
+
+}
+.diml{
+    
+    color: #3d3d40;
+background-color: rgb(189, 191, 230);
+font-weight: 700;
+    font-size: 1.5rem;
+padding-left: 33px;
+padding-right: 33px;
+padding-top: 12px;
+padding-bottom: 12px;
+}
+.uik{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./img/bg\ 2.png);
+}
+
+.loc{
+    color:#35599d ;
+    font-weight: 700;
+    background-color: white;
+    padding-left: 60px;
+padding-right: 60px;
+padding-top: 10px;
+font-size: 1.5rem;
+border-radius: 7px;
+padding-bottom: 10px;
+margin: 10px;
+}
+
+.jj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 2rem;
+}
+.jj1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 700;
+    color: white;
+    margin: 2rem;
+}
+.kno{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.uil{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* rules card */
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+}
+.bac{
+    background-color: #594640;
+}
+.pok{
+    color: white;
+    background-color: #000;
+    font-weight: 700;
+    font-size: 2rem;
+    padding: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    border-radius: 10px;
+    padding-bottom: 1rem;
+    position: relative;
+    z-index: 3;
+    margin-bottom: -2.3rem;
+}
+.pok2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-weight: 900;
+    font-size: 1.8rem;
+    margin-top: -5rem;
+}
+.main1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containerr{
+    display: flex;
+    border: 2px solid black;
+    width: 80vw;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    background-color: #8c8c91;
+
+}
+.cont1{
+    margin-left: -2rem;
+}
+.cont2{
+    margin-left: -18rem;
+}
+
+.cardin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 20;
+    border: 6px solid #f0479b;
+    padding-left: 10px;
+ padding-right: 10px;
+ padding-top: 13px;
+ padding-bottom: 13px;
+ border-radius: 20px;
+
+}
+
+.bor{
+    border: 6px solid #f0479b;
+ border-radius: 20px;
+
+ padding-top: 233px;
+ padding-bottom:233px;
+
+}
+
+
+.mard{
+    font-weight: 900;
+    width: 14%;
+    font-size: 1.2rem;
+    position:absolute;
+    bottom: 43%;
+    right: 55%;
+    /* top: -53%!important; */
+z-index: 30000;
+}
+.mard1{
+    font-weight: 900;
+    width: 60%;
+    font-size: 1.2rem;
+    position:absolute;
+    bottom: 43%;
+    /* top: -53%!important; */
+z-index: 30000;
+}
+
+
+/* rules card end */
+
+
+
+
+
+.veg{
+    display: flex;
+    flex-direction: column;
+ margin-top: -10rem;
+ position: relative;
+ z-index: 10;
+}
+.hu{
+    display: flex;
+    margin-top: 24rem;
+    margin-left: 3rem;
+   
+}
+.box{
+    /* margin-top: -12rem; */
+}
+.b5{
+    position: relative;
+    z-index: 1;
+    margin-top: -7rem;
+}
+.b4{
+    position: relative;
+    z-index: 20;
+    margin-top: -7rem;
+
+}
+.b3{
+    position: relative;
+    z-index: 30;
+    margin-top: -7rem;
+
+}
+.b2{
+    position: relative;
+    z-index: 40;
+    margin-top: -7rem;
+
+}
+.b1{
+    position: relative;
+    z-index: 50;
+    margin-top: -7rem;
+
+}
+.bb3{
+    position: relative;
+    z-index: 30;
+    margin-top: -12rem;
+
+}
+.bb2{
+    position: relative;
+    z-index: 40;
+    margin-top: -12rem;
+
+}
+.bb1{
+    position: relative;
+    z-index: 50;
+    margin-top: -12rem;
+
+}
+.bl2{
+    position: relative;
+    z-index: 40;
+    margin-top: -10rem;
+
+}
+.bl1{
+    position: relative;
+    z-index: 10;
+    margin-top: -10rem;
+
+}
+.veg3{
+    margin-top: 8rem;
+}
+.bg4{
+    position: relative;
+    z-index: 40;
+    margin-top: -18rem;
+
+}
+.bg3{
+    position: relative;
+    z-index: 30;
+    margin-top: -18rem;
+
+}
+.bg2{
+    position: relative;
+    z-index: 20;
+    margin-top: -18rem;
+
+}
+.bg1{
+    position: relative;
+    z-index: 10;
+    margin-top: -18rem;
+
+}
+.veg4{
+    margin-top: 13rem;
+}
+.bm4{
+    position: relative;
+    z-index: 40;
+    margin-top: -18rem;
+
+}
+.bm3{
+    position: relative;
+    z-index: 30;
+    margin-top: -19rem;
+
+}
+.bm2{
+    position: relative;
+    z-index: 20;
+    margin-top: -19rem;
+
+}
+.bm1{
+    position: relative;
+    z-index: 10;
+    margin-top: -19rem;
+
+}
+.veg5{
+    margin-top: 13rem;
+}
+.trey{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -9rem;
+    position: relative;
+    z-index: 2;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -11rem;
+    position: relative;
+    z-index: 40;
+}
+.bh5{
+    width: 12vw;
+}
+.ci{
+    margin: 0.5rem;
+}
+.im{
+    width: 145px;
+    margin-bottom: -5.5rem;
+    margin-left: -0.8rem;
+}
+.lp{
+    font-size: 0.7rem;
+    margin-bottom: -6rem;
+    position: relative;
+    z-index: 2;
+    margin-left: 1.2rem;
+
+}
+.dv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 700;
+    background-color: black;
+    opacity: 0.5;
+    width: 22px;
+    margin-left: 3rem;
+}
+.dvl{
+    color: white;
+    font-weight: 700;
+    background-color: black;
+    opacity: 0.5;
+    width: 22px;
+    margin-left: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -76px;
+}
+.jom{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 26rem;
+    margin-top: -8rem;
+}
+.fl{
+    display: flex;
+    position: relative;
+    z-index: 200;
+    margin-left: 28rem;
+    margin-top: -9rem;
+}
+.jom1{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 26rem;
+    margin-top: -8rem;
+}
+.fl1{
+    display: flex;
+    position: relative;
+    z-index: 200;
+    margin-left: 38rem;
+    margin-top: -9rem;
+}
+.p1{
+    color: white;
+    margin-top: -0.7rem;
+    margin-left: 0.6rem;
+}
+.p2{
+    color: white;
+    margin-top: -0.2rem;
+    margin-left: 0.8rem;
+}
+.p3{
+    color: white;
+    margin-top: 0.7rem;
+}
+.ar{
+    width: 2rem;
+    margin-top: 3rem;
+}
+.pn1{
+    color: white;
+    font-weight: 700;
+    font-size: 2.0rem;
+    margin: 1rem;
+}
+.pn2{
+    color: white;
+    background-color: #000;
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    border-radius: 10px;
+    padding-bottom: 1rem;
+}
+.pn3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+.wood{
+    background-color: #594640;
+}
+.row{
+    width: 2rem;
+
+}
+.row2{
+    color: white;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+}
